@@ -246,7 +246,3 @@ aur-update-audit/
 ├── aur-update-audit.sh
 └── README.md
 ```
-
-## License
-
-No license is included by default. Add one before publishing if you want others to reuse or contribute.
